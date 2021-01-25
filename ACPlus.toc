@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: Azeroth's Colosseum +
+## Notes: Data Collection for webApp
+## Author: WilssoN
+## Version: 0.0.1
+## SavedVariables: dungeon_tables, current_table
+ACPlus.lua
